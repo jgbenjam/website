@@ -1,0 +1,46 @@
+/* styles02.css Author: John Benjamin 2020*/
+
+/* designed for the home page and gallery */
+
+
+/* ================== Main Content =================== */
+
+
+	main {
+		
+		display: flex;
+		flex-wrap: wrap;
+		margin: 3em 50px 3em 50px;
+		
+	}
+
+		main a {
+			
+			text-decoration: none;
+			
+		}	
+		
+		main a:hover {
+			
+			filter: invert(50%);
+			
+		}
+		
+		main img {
+			
+			width: 250px;
+			height: 250px;
+			
+		}
+
+/* ================= Section 1 ======================== */
+
+	#lorem {
+		
+		margin: 3em;		
+		
+	}
+
+
+
+

@@ -1,0 +1,31 @@
+/* styles03.css Author: John Benjamin 2020*/
+
+/* designed for the credits page */
+
+
+/* ================== Main Content =================== */
+
+
+	main {
+		
+		padding: 0em 5em 2em 5em;
+		
+	}
+
+		main a {
+			
+			text-decoration: underline;
+			
+		}	
+		
+		main li {
+			
+			margin-left: 2em;
+			
+		}
+
+	h1 {
+		
+		padding-bottom: 0.3em;
+
+	}
